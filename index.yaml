@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  hello:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-07-10T22:24:58.70646+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 4256bb09a3de6c2384af7316d06d915f68f4b265cdb65315d2f8c9eac6408663
+    name: hello
+    urls:
+    - https://mikejianzhang.github.io/charts/hello-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-10T22:24:58.69667+08:00"
